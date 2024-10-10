@@ -1,0 +1,94 @@
+body {
+
+  font-family: Arial, sans-serif;
+  
+  background-image: url('newspaper-background.webp');/* Replace with your background image path */
+  
+  background-size: cover;
+  
+  background-position: center;
+  
+  margin: 0;
+  
+  color: #333;/* Text color */
+  
+  }
+  
+  
+  header {
+  
+  font-family: Script, cursive;/* Handwriting font */
+  
+  font-size: 20px;
+  
+  text-align: center;
+  
+  
+  }
+  
+  
+  article {
+  
+  text-align: center;
+  
+  margin: 15px auto;
+  
+  border-radius: 20px;
+  
+  max-width: 800px;/* Limit the width of the article */
+  
+  }
+  
+  
+  img {
+  
+  display: flex;
+  
+  margin: 0 auto;
+  
+  max-width: 100%;
+  
+  border-radius: 8%;
+  
+  /* Rounded corners for the image */
+  
+  }
+  
+  
+  article h2 {
+  
+  font-family: Script, cursive;/* Handwriting font */
+  
+  font-size: 20px;
+  
+  text-align: center;
+  
+  color: white;
+  
+  margin: 10px auto;
+  
+  padding: 10.5px;
+  
+  border-radius: 20px;
+  
+  max-width: 800px;/* Limit the width of the article */
+  
+  border: 1px solid #ccc;/* Add a 1px solid border with a light gray color */
+  
+  padding: 20px;/* Add some padding to create space between the border and the content */
+  
+  background-color: rgb(78, 146, 146);
+  
+  }
+  
+  p {
+  
+  font-family: Script, cursive;/* Handwriting font */
+  
+  font-size: 30px;
+  
+  text-align: center;
+  
+  
+  }
+  
